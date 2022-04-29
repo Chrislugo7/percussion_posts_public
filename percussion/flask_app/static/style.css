@@ -1,0 +1,33 @@
+.percussion {
+    background-color: black;
+    color: aqua;
+}
+#fupa {
+    background-color: black;
+    color: green;
+}
+.drumline {
+    color: seagreen;
+}
+.new {
+    background-color: green;
+    color: orange;
+}
+.timpani {
+    background-color: red;
+}
+.snare {
+    background-color: blueviolet;
+}
+.congas {
+    background-color: black;
+}
+.kanjira {
+    background-color: steelblue;
+}
+.djembe {
+    background-color: seagreen;
+}
+/* .image {
+    zoom: 150%;
+} */
